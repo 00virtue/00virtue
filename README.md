@@ -19,6 +19,6 @@ I am a high school student passionate about software development and building re
 ---
 
 ## 📌 Projects
-- 🎫 NextGames Ticket Bot — Discord ticket system
-- 🛡️ NextGames Moderation Bot — server moderation tools
-- 🌐 Portfolio Website — personal link hub
+- 🎫 NextGames Ticket Bot
+- 🛡️ NextGames Moderation Bot
+- 🌐 Portfolio Website
