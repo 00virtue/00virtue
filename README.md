@@ -23,13 +23,13 @@ I am a high school student passionate about software development, automation sys
 ## 📌 Projects
 
 **・HoneyPot Anti-Spam Bot**
-A Discord moderation bot that detects spam behavior using a honeypot channel system and automatically softbans malicious users.
+> A Discord moderation bot that detects spam behavior using a honeypot channel system and automatically softbans malicious users.
 
 **・NextGames Ticket Bot**
-A Discord ticket system bot designed for structured support handling and user requests.
+> A Discord ticket system bot designed for structured support handling and user requests.
 
 **・Moderation Bot**
-Full discord moderation system with automated tools for managing Discord communities.
+> Full discord moderation system with automated tools for managing Discord communities.
 
 **・Portfolio Website**
-Personal developer portfolio showcasing projects, skills, and contact links.
+> Personal developer portfolio showcasing projects, skills, and contact links.
